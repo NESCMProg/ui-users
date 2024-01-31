@@ -1,0 +1,10 @@
+.commentsWrapper { 
+  display: flex; 
+  align-items: center;
+}
+
+.addCommentBtn {
+  float: right;
+  margin-left: 50px;
+  margin-bottom: 0;
+}

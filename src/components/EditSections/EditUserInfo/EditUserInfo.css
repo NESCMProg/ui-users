@@ -1,0 +1,35 @@
+@import "@folio/stripes-components/lib/variables.css";
+
+.root {
+  padding: 0;
+}
+
+.label {
+  display: flex;
+  flex-grow: 2;
+  color: var(--secondary);
+  font-weight: var(--text-weight-medium);
+  justify-content: flex-start;
+  padding: 0px 0px 10px 22px;
+  & h2 {
+    font-size: var(--font-size-x-large);
+  }
+}
+
+.separator {
+  width: 100%;
+  border-bottom: 1px solid #cecece;
+  margin: auto;
+  margin-bottom: 14px;
+}
+
+.patronGroup {
+  padding-right: 25px;
+}
+
+.expiredMessage {
+  color: var(--error);
+  position: relative;
+  top: -10px;
+  font-size: var(--font-size-small);
+}

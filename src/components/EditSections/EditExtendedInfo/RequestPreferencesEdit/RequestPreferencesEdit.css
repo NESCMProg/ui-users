@@ -1,0 +1,9 @@
+@import "@folio/stripes-components/lib/variables.css";
+
+.heading {
+  font-weight: var(--text-weight-bold);
+}
+
+.rowMargin {
+  margin-bottom: var(--gutter);
+}

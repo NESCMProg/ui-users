@@ -1,0 +1,13 @@
+@import "@folio/stripes-components/lib/variables.css";
+
+.label {
+  margin-top: var(--gutter-static-two-thirds);
+  color: #333;
+  font-size: calc(var(--gutter-static-two-thirds) * 2);
+  font-weight: normal;
+  margin-bottom: var(--gutter-static-one-third);
+}
+
+.isEmptyMessage {
+  color: var(--subLabelColor);
+}
