@@ -1073,7 +1073,7 @@
   },
   "devDependencies": {
     "@aashutoshrathi/word-wrap": "^1.2.6",
-    "@babel/core": "^7.21.4",
+    "@babel/core": "^7.24.0",
     "@babel/eslint-parser": "^7.15.0",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/plugin-proposal-decorators": "^7.13.5",
